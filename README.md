@@ -1,7 +1,6 @@
 # Robinson Portfolio
-Portfolio
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Embedded+Software+Developer;RTOS|+EV+Infrastructure)](https://git.io/typing-svg)
-# Hi there, I'm [Your Name] 👋
+
+# Hi there, I'm Robinson P 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Embedded+Systems+Developer;Building+EV+Charging+Infrastructure;C+%7C+C%2B%2B+%7C+Rust+%7C+Python;Hardware+%2B+RTOS+Enthusiast" alt="Typing SVG" /></a>
 
